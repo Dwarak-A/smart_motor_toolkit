@@ -1,0 +1,14 @@
+{
+  "rated_voltage": ["V", "VOLT", "VOLTS", "VOLTAGE", "TENSION", "SPANNUNG", "U"],
+  "rated_current": ["A", "AMP", "AMPS", "FLA", "F.L.A.", "IN", "IE", "CORRENTE", "STROM", "I"],
+  "rated_rpm": ["RPM", "R.P.M.", "SPEED", "MIN-1", "MIN^-1", "N", "DREHZAHL", "VELOCIDADE"],
+  "rated_power": ["KW", "HP", "POWER", "OUTPUT", "LEISTUNG", "POTENCIA", "P"],
+  "frequency": ["HZ", "FREQ", "FREQUENCY", "FREQUENCIA"],
+  "power_factor": ["PF", "COS", "COS\u03c6", "COSPHI", "FP"],
+  "poles": ["POLES", "POLE", "POLOS", "P"],
+  "phase": ["PH", "PHASE", "3PH", "3~", "FASE"],
+  "frame_size": ["FRAME", "FR", "IEC FRAME"],
+  "insulation_class": ["INS CL", "CLASS", "INSUL CLASS", "CL"],
+  "duty": ["DUTY", "S1", "SERVICE"],
+  "connection": ["CONN", "CONNECTION", "DELTA", "STAR", "Y", "D"]
+}
